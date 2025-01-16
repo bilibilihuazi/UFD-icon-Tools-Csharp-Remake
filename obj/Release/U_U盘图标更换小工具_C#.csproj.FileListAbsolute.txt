@@ -1,0 +1,10 @@
+D:\VisualStudio\Projects\U_U盘图标更换小工具_C#\U_U盘图标更换小工具_C#\bin\Release\U_U盘图标更换小工具_C#.exe.config
+D:\VisualStudio\Projects\U_U盘图标更换小工具_C#\U_U盘图标更换小工具_C#\bin\Release\U_U盘图标更换小工具_C#.exe
+D:\VisualStudio\Projects\U_U盘图标更换小工具_C#\U_U盘图标更换小工具_C#\bin\Release\U_U盘图标更换小工具_C#.pdb
+D:\VisualStudio\Projects\U_U盘图标更换小工具_C#\U_U盘图标更换小工具_C#\obj\Release\U_U盘图标更换小工具_C#.csproj.AssemblyReference.cache
+D:\VisualStudio\Projects\U_U盘图标更换小工具_C#\U_U盘图标更换小工具_C#\obj\Release\U_U盘图标更换小工具_C_.Main_Window.resources
+D:\VisualStudio\Projects\U_U盘图标更换小工具_C#\U_U盘图标更换小工具_C#\obj\Release\U_U盘图标更换小工具_C_.Properties.Resources.resources
+D:\VisualStudio\Projects\U_U盘图标更换小工具_C#\U_U盘图标更换小工具_C#\obj\Release\U_U盘图标更换小工具_C#.csproj.GenerateResource.cache
+D:\VisualStudio\Projects\U_U盘图标更换小工具_C#\U_U盘图标更换小工具_C#\obj\Release\U_U盘图标更换小工具_C#.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Projects\U_U盘图标更换小工具_C#\U_U盘图标更换小工具_C#\obj\Release\U_U盘图标更换小工具_C#.exe
+D:\VisualStudio\Projects\U_U盘图标更换小工具_C#\U_U盘图标更换小工具_C#\obj\Release\U_U盘图标更换小工具_C#.pdb
