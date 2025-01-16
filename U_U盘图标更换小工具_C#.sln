@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "U_U盘图标更换小工具_C#", "U_U盘图标更换小工具_C#\U_U盘图标更换小工具_C#.csproj", "{8511F99F-73CB-46A3-8B59-AB804190A732}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8511F99F-73CB-46A3-8B59-AB804190A732}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8511F99F-73CB-46A3-8B59-AB804190A732}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8511F99F-73CB-46A3-8B59-AB804190A732}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8511F99F-73CB-46A3-8B59-AB804190A732}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
